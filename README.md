@@ -1,3 +1,13 @@
+# Hey there, I'm Salil Lakra! 👋
+
+Welcome to my coding playground! 🎉
+
+## About Me
+
+I'm a caffeine-fueled developer from India, passionate about crafting clean code and building delightful user experiences. When I'm not glued to my screen, you can find me exploring the latest tech trends or trying to decode the mysteries of the universe (mostly debugging).
+
+## My Stack 🛠️
+
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/></code>
@@ -29,9 +39,7 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" alt="Bun.js" title="Bun.js"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b" alt="Babel" title="Babel"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" alt="Astro" title="Astro"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
@@ -44,3 +52,22 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="fedora" title="fedora"/></code>
 </div>
+
+## Fun Facts 🤓
+
+- I once refactored a codebase so efficiently, it achieved enlightenment and meditated for 3 days straight.
+- My rubber duck debugging sessions often turn into philosophical debates.
+- I believe in the power of emojis to convey complex emotions in just one character. 😉
+
+## Current Projects 🚀
+
+Right now, I'm focusing on my JEE exams and enjoying the exam season to the fullest! 📚✏️
+
+Join me in this intense yet rewarding journey as I prepare for the ultimate challenge! 💪
+
+
+## Let's Connect! 🌐
+
+Got coding questions, memes, or existential ponderings? Reach out to me on [Instagram](https://instagram.com/salillakra) or [Email me](mailto:salillakra@skiff.com). Let's chat over coffee (or code)!
+
+Remember, life's too short to write boring code. Let's make magic happen! ✨
