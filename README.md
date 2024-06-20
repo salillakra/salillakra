@@ -97,6 +97,6 @@ Join me in this intense yet rewarding journey as I prepare for the ultimate chal
 
 ## Let's Connect! 🌐
 
-Got coding questions, memes, or existential ponderings? Reach out to me on [Instagram](https://instagram.com/officialsalillakra) or [Email me](mailto:salillakra@skiff.com). Let's chat over coffee (or code)!
+Got coding questions, memes, or existential ponderings? Reach out to me on [Instagram](https://instagram.com/officialsalillakra) or [Email me](mailto:salillakra.dev@gmail.com). Let's chat over coffee (or code)!
 
 Remember, life's too short to write boring code. Let's make magic happen! ✨
