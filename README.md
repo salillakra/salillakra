@@ -73,7 +73,7 @@ I'm a caffeine-fueled developer from India, passionate about crafting clean code
 - I once refactored a codebase so efficiently, it achieved enlightenment and meditated for 3 days straight.
 - I'm passionate about showing others the beauty of mathematics. Many children today may want to avoid math, but it's everywhere and understanding it opens doors to countless possibilities. Let's explore the real magic of math together! 🌟🔢
 - My laptop, Lisa, holds a special place in my heart. I love her more than my fishes 🐟. She's not just a machine; she's my trusted companion in the digital realm.
-- In times of trouble, I find solace and strength in the blessings of Lord Hanuman. His guidance has been a source of unwavering support, guiding me through life's challenges with grace and wisdom. `Jai Shree Ram`🙏
+- In times of trouble, I find solace and strength in the blessings of Lord Hanuman. His guidance has been a source of unwavering support, guiding me through life's challenges with grace and wisdom. `Har Har Mahadev `🙏
 
 
 ## Motivation 💪
