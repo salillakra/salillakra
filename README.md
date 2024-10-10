@@ -1,10 +1,10 @@
 # Hey there, I'm Salil Lakra! 👋
 
-Welcome to my coding playground! 🎉
+Welcome aboard Dear.
 
 ## About Me 🦁
 
-I'm a caffeine-fueled developer from India, passionate about crafting clean code and building delightful user experiences. When I'm not glued to my screen, you can find me exploring the latest tech trends or trying to decode the mysteries of the universe (mostly debugging).
+I'm Salil Lakra currently doing Bachelors of Technology in Electronics and Communications at BIT Mesra. I love to ......... want to know more about me then meet me yaar.😉
 
 ## My Stack 🛠️
 
