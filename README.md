@@ -1,4 +1,4 @@
-# Hey there, I'm Salil Lakra! 👋
+# Hey, I'm Salil Lakra! 👋
 
 Welcome aboard Dear.
 
