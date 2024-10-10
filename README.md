@@ -68,31 +68,6 @@ I'm a caffeine-fueled developer from India, passionate about crafting clean code
 	</table>
 </div>
 
-## Fun Facts 🤓
-
-- I once refactored a codebase so efficiently, it achieved enlightenment and meditated for 3 days straight.
-- I'm passionate about showing others the beauty of mathematics. Many children today may want to avoid math, but it's everywhere and understanding it opens doors to countless possibilities. Let's explore the real magic of math together! 🌟🔢
-- My laptop, Lisa, holds a special place in my heart. I love her more than my fishes 🐟. She's not just a machine; she's my trusted companion in the digital realm.
-- In times of trouble, I find solace and strength in the blessings of Lord Shiva. His guidance has been a source of unwavering support, guiding me through life's challenges with grace and wisdom. `Har Har Mahadev `🙏
-
-
-## Motivation 💪
-
-- Embrace the challenges of life; ignore those who advise you to rest.
-- Rest will come, but only after you've toiled hard today.
-- **Verse from the Bhagavad Gita:**
-  - "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
-    मा कर्मफलहेतुर्भूर्मा ते संगोऽस्त्वकर्मणि॥"
-  - Translation:
-    - 🌿 "You have the right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself to be the cause of the results of your activities, nor be attached to inaction." 🌸
-
-
-
-## Current Projects 🚀
-
-Right now, I'm focusing on my JEE exams and enjoying the exam season to the fullest! 📚✏️
-
-Join me in this intense yet rewarding journey as I prepare for the ultimate challenge! 💪
 
 
 ## Let's Connect! 🌐
