@@ -1,6 +1,6 @@
 # Hey, I'm Salil Lakra! 👋
 
-Welcome to relm! 💻✨
+Welcome Guys! 💻✨
 
 ## About Me 🦁
 
