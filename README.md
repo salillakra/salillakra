@@ -4,7 +4,7 @@ Welcome Guys! 💻✨
 
 ## About Me 🦁
 
-I'm a passionate tech enthusiast who loves to build stuff and break things (in a good way, of course). When I'm not coding, you might find me singing 🎤, hanging out 🛋️, or brainstorming my next big idea 💡. Wanna know more? Let's hang out and chat! 😉
+I'm a passionate tech enthusiast who loves to build stuff and break things (in a good way, of course). When I'm not coding, you might find me hanging out 🛋️, or brainstorming my next big idea 💡. Wanna know more? Let's hang out and chat! 😉
 
 ## Projects 🔥
 
