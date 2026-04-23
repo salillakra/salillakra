@@ -23,7 +23,7 @@
 
 **Frontend**
 - React, Next.js, React Native
-- TailwindCSS, Redux
+- TailwindCSS, Redux, Zustand
 
 **Backend**
 - Node.js, Express, NestJS
@@ -36,28 +36,19 @@
 **Other**
 - TypeScript, Linux, Git
 
----
-
-### 🔥 Projects Worth Looking At
-
-- 🧠 WhisperConfess — Anonymous confession & polling platform  
-- 💸 Wallet System — Admin-controlled coin system with payments  
-- 🤖 WhatsApp Bot — Auto-replies, image sending, dashboard logs  
-
----
 
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://twitter.com/salillakra223" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/salillakra" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/officialsalillakra" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+  <a href="https://twitter.com/salillakra223" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" style="vertical-align: middle; margin-right: 10px;" />
+  </a>
+  <a href="https://linkedin.com/in/salillakra" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="vertical-align: middle; margin-right: 10px;" />
+  </a>
+  <a href="https://instagram.com/officialsalillakra" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="vertical-align: middle;" />
+  </a>
 </p>
 
 ---
