@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salil Lakra</h1>
 <h3 align="center">Full Stack Developer | Building scalable & real-world apps</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=salillakra&theme=darkhub&no-frame=true&margin-w=10" />
-  </a>
-</p>
 
 ---
 
@@ -51,7 +46,6 @@
   </a>
 </p>
 
----
 
 ### 📊 Stats
 
