@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 Portfolio: https://lilsa.tech  
+- 👨‍💻 Portfolio: [http://lilsa.tech  ](http://www.lilsa.tech/)
 - 📄 Resume: https://salillakra.vercel.app/resume.pdf  
 - 📫 Email: salillakra.dev@gmail.com  
 - 🎓 ECE @ BIT Mesra  
