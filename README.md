@@ -31,21 +31,12 @@
 **Other**
 - TypeScript, Python, BASH, Linux, Git
 
+
 ### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://twitter.com/salillakra223" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/salillakra" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/officialsalillakra" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30" />
-  </a>
-</p>
+<p align="left"><a href="https://twitter.com/salillakra223" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/salillakra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/officialsalillakra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30" /></a></p>
+
+
 
 
 ### 📊 Stats
