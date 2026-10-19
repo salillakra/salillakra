@@ -6,8 +6,7 @@
 
 ### About Me
 
--  Portfolio: [http://lilsa.tech  ](http://www.lilsa.tech/)
--  Resume: https://salillakra.vercel.app/resume.pdf  
+-  Portfolio: [http://salillakra.com/](http://salillakra.com/)
 -  Email: salillakra.dev@gmail.com  
 -  ECE @ BIT Mesra  
 -  I build full-stack apps with real users, not just tutorial projects  
